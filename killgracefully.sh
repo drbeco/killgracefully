@@ -89,7 +89,7 @@ Main()
 {
   verbose=0
   nsignals=4
-  time=3
+  time=5
   pid=0
   lista="15 2 3 9"
   #getopt example with switch/case
