@@ -6,7 +6,7 @@ Script to kill a process gracefully
 
 killgracefully - Send signals to kill gracefully a process
   
-**Usage: ./killgracefully.sh [-v] ( [-h|-V] | [-t S] [-N] -p PID )**
+**`Usage: ./killgracefully.sh [-v...] ( [-h|-V] | [-t S] [-N] -p PID )`**
 
   Options:
   
